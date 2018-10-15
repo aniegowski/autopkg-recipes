@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Description</key>
+    <string>Package recipe for Bluejeans app.</string>
+    <key>Identifier</key>
+    <string>com.github.aniegowski.pkg.bluejeansapp</string>
+    <key>Input</key>
+    <dict>
+        <key>NAME</key>
+        <string>BluejeansApp</string>
+    </dict>
+    <key>MinimumVersion</key>
+    <string>0.3.1</string>
+    <key>ParentRecipe</key>
+    <string>com.github.aniegowski.download.bluejeansapp</string>
+    <key>Process</key>
+    <array>
+    </array>
+</dict>
+</plist>
