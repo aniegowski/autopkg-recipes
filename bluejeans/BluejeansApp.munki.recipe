@@ -70,7 +70,7 @@
             <dict>
                 <key>installs_item_paths</key>
                 <array>
-                    <string>/Applications/Blue Jeans.app</string>
+                    <string>/Applications/BlueJeans.app</string>
                 </array>
                 <key>faux_root</key>
                 <string>%RECIPE_CACHE_DIR%/payload/</string>
